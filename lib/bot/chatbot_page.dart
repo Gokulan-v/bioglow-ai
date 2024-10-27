@@ -15,6 +15,7 @@ class _ChatbotPageState extends State<ChatbotPage> {
   final ImagePicker _picker = ImagePicker();
   late Interpreter _interpreter; // Declare an interpreter for model inference
 
+
   // Load the model
   Future<void> loadModel() async {
     try {
