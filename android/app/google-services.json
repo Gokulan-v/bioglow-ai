@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "301512557982",
+    "project_id": "bioglowai",
+    "storage_bucket": "bioglowai.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:301512557982:android:74a71f6d4c8ae778e7828f",
+        "android_client_info": {
+          "package_name": "com.gokulan.bioglow.ai.bioglow_ai"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD_YxJ4MZPYZ82xe82Y-ADuRKFECongyK0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
